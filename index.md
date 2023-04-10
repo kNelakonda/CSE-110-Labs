@@ -1,5 +1,7 @@
 # Kavi Nelakonda
 
+## About Me:
+
 **Who am I?**
 > I'm a 23 year old student currently studying at UCSD. I major in Computer Science.
 
@@ -25,9 +27,9 @@
 ## My Future:
 
 **So what do you want to do with your life at this point?**
-- [ ] Get a Bachelor's Degree
-- [ ] Maybe get a Master's Degree
-- [ ] Get a Software Engineering Job
-- [ ] Live a happy life
+- [ ]  Get a Bachelor's Degree
+- [ ]  Maybe get a Master's Degree
+- [ ]  Get a Software Engineering Job
+- [ ]  Live a happy life
 
 > Yes, seems boring, but you never know where life takes you. A [tweet I found that really expresses this.](https://twitter.com/Duderichy/status/1537818818206044161)
